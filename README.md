@@ -10,7 +10,7 @@
 
 
 ## 🌐 Contact:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janiceerhunmwunsee@gmail.com) [![resume]](https://github.com/user-attachments/files/31891012/JaniceE_26_27.docx)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janiceerhunmwunsee@gmail.com) [JaniceE_26_27.docx](https://github.com/user-attachments/files/31891041/JaniceE_26_27.docx)
 
 
 # 💻 Tech Stack:
