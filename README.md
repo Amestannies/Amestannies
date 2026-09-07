@@ -1,4 +1,4 @@
-# Janice Erhunmwunsee
+# Janice Ame
 Front-End Developer | UI/UX Engineer | Computer Science Student @ St. John's University
 
 Building at the intersection of front-end engineering and experiential design. Currently developing an AI-powered practice management platform for a solo law firm client, alongside independent projects exploring generative systems and computer-vision interaction.
