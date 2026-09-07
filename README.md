@@ -17,10 +17,6 @@ Open to collaborating on open-source creative-coding tools — [ml5.js](https://
 
 ## 🌐 Contact
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janiceerhunmwunsee@gmail.com) [![resume](https://img.shields.io/badge/Resume-2B579A?logo=microsoftword&logoColor=white)](https://github.com/user-attachments/files/31891041/JaniceE_26_27.docx)
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Amestannies&show_icons=true&theme=default)
-
 ---
 💬 Also happy to talk about One Piece, especially Nico Robin.
 
