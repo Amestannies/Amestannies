@@ -21,4 +21,3 @@ Open to collaborating on open-source creative-coding tools — [ml5.js](https://
 💬 Also happy to talk about One Piece, especially Nico Robin.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Amestannies&icon=0&color=0)](https://visitcount.itsvg.in)
